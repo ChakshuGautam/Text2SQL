@@ -59,7 +59,7 @@ curl --location 'http://localhost:5078/prompt' \
 --header 'Content-Type: application/json' \
 --header 'Cookie: csrftoken=SWTHvaNeh4g3KImyRotjdDcMYuiW0dw4ctce3LXEkRWHJx71t7nKMLCk70wSdSSB' \
 --data '{
-    "prompt": "Hey how are you?"
+    "prompt": "<prompt>"
 }'
 ```
 # Contribution
